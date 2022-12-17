@@ -9,3 +9,5 @@
 * Project-2.ipynb : Jupyter notebook containing both random coordinate descent as well as my personal implemented greedy coordinate descent algorithm.
 
 * Project2.pdf : Project report containing the inner workings of the implemented algorithm and how it performs compared to random coordinate descent.
+
+*These projects as a part of the CSE 251A (ML: Learning Algorithms) course in UCSD.*

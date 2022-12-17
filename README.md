@@ -10,4 +10,4 @@
 
 * Project2.pdf : Project report containing the inner workings of the implemented algorithm and how it performs compared to random coordinate descent.
 
-*These projects as a part of the CSE 251A (ML: Learning Algorithms) course in UCSD.*
+*These projects were implemented as a part of the CSE 251A (ML: Learning Algorithms) course in UCSD.*
